@@ -1,0 +1,12 @@
+.show{
+    display: inline-block;
+    text-align: center;
+    margin: 5px;
+}
+.show img {
+    display: block;
+}
+
+#results{
+    margin-top: 5px;
+}
